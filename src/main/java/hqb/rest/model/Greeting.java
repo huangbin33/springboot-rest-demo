@@ -1,4 +1,4 @@
-package hello;
+package hqb.rest.model;
 
 public class Greeting {
 	
